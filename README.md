@@ -1,4 +1,4 @@
- <h1 align="center"> PWA: Budget Trackers 🙋‍♀️ </h1>
+ <h1 align="center"> PWA: Budget Tracker 🙋‍♀️ </h1>
  
 ## Description
 
