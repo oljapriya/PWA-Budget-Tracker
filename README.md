@@ -2,12 +2,12 @@
 
 ## Description
 
-The fitness tracker allows the user to create a workout where they enter various exercises associated to the workout. The data can then be analyzed with an included stats page that provides insights into the details of all their workouts. 
-This application is using Mongoose
+A Mobile-First, Progressive Web Application Budget Tracker that allows a user to track income and expenses online and offline.
 
 ## Table of Contents
 - [Description](#Description)
 - [Links](#Links) 
+- [User Story](#Userstory) 
 - [Screenshots](#Screenshots)
 - [Instalation](#Instalation)
 - [Usage](#Usage)
@@ -18,21 +18,31 @@ This application is using Mongoose
 
 [Deployed Application](https://cryptic-escarpment-79672.herokuapp.com/)
 
+## User Story
+`AS AN avid traveller
+I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
+SO THAT my account balance is accurate when I am traveling`
+
+## Acceptance Criteria 
+`GIVEN a budget tracker without an internet connection
+WHEN the user inputs an expense or deposit
+THEN they will receive a notification that they have added an expense or deposit
+WHEN the user reestablishes an internet connection
+THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated`
+
 
 ## Screenshots
-
+![Screen Shot 2021-08-09 at 8 25 21 PM](https://user-images.githubusercontent.com/79331882/129478840-b2053aaa-f198-4a37-b8c2-9b585ee3ef22.png)
 
 
 ## Instalation 
-To run a copy of this app on your local machine, you need to download MongoDB. 
-Start the application by typing into terminal node server.js. Then go to localhost:3000:
-
-
+`npm install`
 
 ## Usage 
-This project is intended to be used to track workouts.
+`npm start`
+
 ## Technologies Used
-Node.js, Mongo, Mongoose, Express
+Javascript, Express, MongoDB, Mongoose,indexedDB, nodemon
 
 ## Test
-npm run test
+N/A
