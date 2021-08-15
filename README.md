@@ -32,8 +32,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 
 ## Screenshots
-![Screen Shot 2021-08-09 at 8 25 21 PM](https://user-images.githubusercontent.com/79331882/129478840-b2053aaa-f198-4a37-b8c2-9b585ee3ef22.png)
-
+![Screen Shot 2021-08-15 at 8 34 38 AM](https://user-images.githubusercontent.com/79331882/129479155-de341d1e-33ef-4248-a737-4e3e07e3b643.png)
 
 ## Instalation 
 `npm install`
