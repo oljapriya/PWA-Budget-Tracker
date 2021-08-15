@@ -1,5 +1,4 @@
-# PWA: Budget Trackers
-
+ <h1 align="center"> PWA: Budget Trackers 🙋‍♀️ </h1>
 ## Description
 
 A Mobile-First, Progressive Web Application Budget Tracker that allows a user to track income and expenses online and offline.
@@ -26,11 +25,13 @@ SO THAT my account balance is accurate when I am traveling
 ```
 
 ## Acceptance Criteria 
-``GIVEN a budget tracker without an internet connection
+```
+GIVEN a budget tracker without an internet connection
 WHEN the user inputs an expense or deposit
 THEN they will receive a notification that they have added an expense or deposit
 WHEN the user reestablishes an internet connection
-THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated``
+THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
+```
 
 
 ## Screenshots
@@ -43,7 +44,14 @@ THEN the deposits or expenses added while they were offline are added to their t
 `npm start`
 
 ## Technologies Used
-Javascript, Express, MongoDB, Mongoose,indexedDB, nodemon
+```
+Javascript
+Express
+MongoDB
+Mongoose
+indexedDB
+nodemon
+```
 
 ## Test
 N/A
