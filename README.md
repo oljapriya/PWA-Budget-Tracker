@@ -46,13 +46,14 @@ THEN the deposits or expenses added while they were offline are added to their t
 `npm start`
 
 ## Technologies Used
-
+```
 `Javascript`
 `Express`
 `MongoDB`
 `Mongoose`
 `indexedDB`
 `nodemon`
+```
 
 
 ## Test
