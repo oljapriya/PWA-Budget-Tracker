@@ -1,4 +1,5 @@
  <h1 align="center"> PWA: Budget Trackers 🙋‍♀️ </h1>
+ 
 ## Description
 
 A Mobile-First, Progressive Web Application Budget Tracker that allows a user to track income and expenses online and offline.
