@@ -48,9 +48,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 ## Technologies Used
 
 `Javascript`
-
 `Express`
-
 `MongoDB`
 
 `Mongoose`
